@@ -1,0 +1,18 @@
+.Button{
+    width: 90%;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.input{
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    border:1px solid black;
+    margin-top: 10px;
+}
+.positive-or-negative{
+    margin-top: 10px;
+}
