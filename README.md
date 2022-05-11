@@ -15,5 +15,5 @@ This Proyect is a transaction recorder Aplication using React.JS
 
 ### ¿How to run?
     npm start
-## Or deploy 
+### Can also be run with deploy.
     https://fascinating-unicorn-7f1022.netlify.app
