@@ -3,10 +3,10 @@
 This Proyect is a transaction recorder Aplication using React.JS
 
 ### Functionalities:
-Show income.
-Show Expenses.
-Show Total.
-Keep a record of Transactions. 
+1. Show income.
+2. Show Expenses.
+3. Show Total.
+4. Keep a record of Transactions. 
 
 ### Technologies used:
 1. ReactJs.
